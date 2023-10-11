@@ -1,0 +1,33 @@
+.bg-head{
+    background-image: url("img/whipcream.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-about{
+    background-image: url("chef.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} 
+.text-pink{
+    color: #d6536b;
+}
+
+.text-justify{
+    text-align: justify;
+}
+.menu{
+background-color: #faf9f9;
+}
+.cart:hover{
+    background-color: #d6536b;
+    color: white;
+}
+.btn-pink{
+    background-color: #d6536b; 
+    color: white;  
+}
+#services{
+    background-color:#e7e3e3 ;
+}
